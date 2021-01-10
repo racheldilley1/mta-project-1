@@ -1,5 +1,8 @@
 # MTA EDA Project Repository
-## Patrick Bovard, Rachel Dilley, Josef Seemayer, Ritu Singal
+### Patrick Bovard, Rachel Dilley, Josef Seemayer, Ritu Singal
+
+FINAL SUBMISSION notebook has the complete EDA process.
+Presentation in PDF.
 
 ## Goals
 
