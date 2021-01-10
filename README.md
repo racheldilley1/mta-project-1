@@ -1,11 +1,11 @@
 # MTA EDA Project Repository
-# -Patrick Bovard, Rachel Dilley, Josef Seemayer, Ritu Singal
-=============================================================
+## Patrick Bovard, Rachel Dilley, Josef Seemayer, Ritu Singal
+
 ## Goals
 
-**Recommend a schedule(s) for the WYWT Street Team**
+**Recommend a schedule(s) for the WYWT Street Team to maximize gala attendance and donations.**
 
-## Questions (answering these will help us get to our goal
+## Questions (answering these will help us get to our goal)
 
 1. Which stations have the heaviest traffic?
 
