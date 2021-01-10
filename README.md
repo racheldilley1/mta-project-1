@@ -1,36 +1,24 @@
-# mta-project-1
-#MTA EDA Group Project Repo
+# MTA EDA Project Repository
+## Patrick Bovard, Rachel Dilley, Josef Seemayer, Ritu Singal
 
-##Project Goals
+## Goals
 
-Get a schedule for the WYWT 
+**Recommend a schedule(s) for the WYWT Street Team to maximize gala attendance and donations.**
 
-##Project Questions
-1. Where are the stations with the heaviest traffic?
+## Questions (answering these will help us get to our goal)
+
+1. Which stations have the heaviest traffic?
 
 2. What times of day are the station's busiest?
 
 3. Are weekends different than weekends?
 
-4. Can we find where more women are located?
+4. Can we find people with more disposable income who are more likely to donate at these busier stations?
 
-5. 
+5. Can we take advantage of bigger events to find boosts at otherwise "lower" traffic stations?
 
-##Field Description
+## Deliverables
 
+1. Presentation describing our findings and recommendations.
 
-
->>C/A      = Control Area (A002)
->>UNIT     = Remote Unit for a station (R051)
->>SCP      = Subunit Channel Position represents an specific address for a device (02-00-00)
->>STATION  = Represents the station name the device is located at
->>LINENAME = Represents all train lines that can be boarded at this station
-           Normally lines are represented by one character.  LINENAME 456NQR repersents train server for 4, 5, 6, N, Q, and R trains.
->>DIVISION = Represents the Line originally the station belonged to BMT, IRT, or IND   
->>DATE     = Represents the date (MM-DD-YY)
->>TIME     = Represents the time (hh:mm:ss) for a scheduled audit event
->>DESc     = Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours)
-           1. Audits may occur more that 4 hours due to planning, or troubleshooting activities. 
-           2. Additionally, there may be a "RECOVR AUD" entry: This refers to a missed audit that was recovered. 
->>ENTRIES  = The comulative entry register value for a device
->>EXIST    = The cumulative exit register value for a device
+2. EDA Analysis using python and more advanced modules.
